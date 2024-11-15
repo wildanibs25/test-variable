@@ -383,6 +383,8 @@ const animationTimeline = () => {
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
+    var name = document.getElementById("name");
+    name.innerHTML = "I Love You ❤️";
     tl.restart();
   });
 };
