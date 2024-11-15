@@ -139,7 +139,7 @@ body {
 .eight {
   height: 100vh;
   position: fixed;
-  top: 0;
+  top: -10;
   width: 100vw;
 }
 
