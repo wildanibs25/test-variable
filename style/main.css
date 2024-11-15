@@ -218,6 +218,10 @@ body {
   margin: 10px 0 0;
 }
 
+.nine {
+  height: 70vh;
+}
+
 .nine p {
   font-size: 2rem;
   font-weight: lighter;
